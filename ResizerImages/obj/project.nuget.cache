@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "B+D+Wo9k4CEfRsWcbmb+/FRS/fkI+9c+PEt1uunt3Fo7AXhuIPUdTHqbVYFOkGfOUayeBajoULLEBZhhcpIZ7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heric\\Desktop\\CrawlerCsharp\\ResizerImages\\ResizerImages\\ResizerImages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heric\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\heric\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
